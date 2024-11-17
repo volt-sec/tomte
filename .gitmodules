@@ -1,0 +1,4 @@
+[submodule "extern/wifimanager"]
+	path = extern/wifimanager
+	url = git@github.com:volt-sec/wifimanager.git
+	branch = feature/volt-sec/configure-ssid-password
